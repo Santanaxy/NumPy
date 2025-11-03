@@ -11,4 +11,14 @@ import numpy as np
 nu = np.ones((900)) 
 
 
-print(nu)
+print(nu)  
+
+
+import numpy as np  
+
+nu = np.ones((9,9)) 
+
+
+print(nu)   
+
+
